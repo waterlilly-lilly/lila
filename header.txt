@@ -1,0 +1,7 @@
+//***************************************************************************************************************
+// This file is part of the Lila project, at <https://lila.waterlilly.dev/>                                     *
+// Copyright 2022 Waterlilly Cooperative (Lilly Rosaline, Veronica Maestoso, Erin Nova, et al.)                 *
+// This project is licensed under the Cooperative Nonviolent Public License No Attributions version 7 and above *
+// (CNPL-NAv7+), at LICENSE.md. If this file is not present, view the license at                                *
+// <https://git.pixie.town/thufie/npl-builder/src/branch/main/cnpl-na.md>.                                      *
+//***************************************************************************************************************
